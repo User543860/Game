@@ -1,0 +1,13 @@
+C:\Users\Ruslan\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Ruslan\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Ruslan\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.Dungeon.resources
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.ResultTable.resources
+C:\Users\Ruslan\source\repos\Game\Game\obj\Debug\Game.YourScore.resources
